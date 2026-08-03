@@ -3212,7 +3212,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Bark (big dog)',
         imageId = 'bdogbark',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogbark2"] = {
@@ -3221,7 +3221,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Bark (big dog - retriever)',
         imageId = 'bdogbark2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogbeg"] = {
@@ -3230,7 +3230,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Beg (big dog)',
         imageId = 'bdogbeg',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogbeg2"] = {
@@ -3239,7 +3239,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Beg 2 (big dog)',
         imageId = 'bdogbeg2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogexcited"] = {
@@ -3248,7 +3248,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Excited (big dog - retriever)',
         imageId = 'bdogexcited',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogfhump"] = {
@@ -3259,7 +3259,7 @@ RES.EN.Customs.AnimalEmotes = {
         AdultAnimation = true,
         AnimalEmote = true,
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogfris"] = {
@@ -3278,7 +3278,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -169.4149,
                 21.4173,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bdogfw"] = {
@@ -3360,7 +3360,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.6,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bdogglowa"] = {
@@ -3379,7 +3379,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bdogglowb"] = {
@@ -3399,7 +3399,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogindicateahead"] = {
@@ -3408,7 +3408,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Indicate Ahead (big dog)',
         imageId = 'bdogindicateahead',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogindicatehigh"] = {
@@ -3417,7 +3417,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Indicate High (big dog)',
         imageId = 'bdogindicatehigh',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogindicatelow"] = {
@@ -3426,7 +3426,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Indicate Low (big dog)',
         imageId = 'bdogindicatelow',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogitch"] = {
@@ -3444,7 +3444,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Lay Left (big dog)',
         imageId = 'bdoglayleft',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdoglayright"] = {
@@ -3453,7 +3453,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Lay Right (big dog)',
         imageId = 'bdoglayright',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogmhump"] = {
@@ -3464,7 +3464,7 @@ RES.EN.Customs.AnimalEmotes = {
         AdultAnimation = true,
         AnimalEmote = true,
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogpee"] = {
@@ -3488,7 +3488,7 @@ RES.EN.Customs.AnimalEmotes = {
                 1.0,
             },
             PtfxWait = 0,
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogpee2"] = {
@@ -3512,7 +3512,7 @@ RES.EN.Customs.AnimalEmotes = {
                 1.0,
             },
             PtfxWait = 0,
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogpridea"] = {
@@ -3542,7 +3542,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogprideb"] = {
@@ -3572,7 +3572,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogpridec"] = {
@@ -3602,7 +3602,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogprided"] = {
@@ -3632,7 +3632,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogpridee"] = {
@@ -3662,7 +3662,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogpridef"] = {
@@ -3692,7 +3692,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogprideg"] = {
@@ -3722,7 +3722,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogprideh"] = {
@@ -3752,7 +3752,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogpridei"] = {
@@ -3782,7 +3782,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogshit"] = {
@@ -3806,7 +3806,7 @@ RES.EN.Customs.AnimalEmotes = {
                 1.0,
             },
             PtfxWait = 0,
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogsit"] = {
@@ -3816,7 +3816,7 @@ RES.EN.Customs.AnimalEmotes = {
         imageId = 'bdogsit',
         AnimationOptions = {
             ExitEmote = 'bdogup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogsitcar"] = {
@@ -3825,7 +3825,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Sit in car (big dog)',
         imageId = 'bdogsitcar',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["bdogsleep"] = {
@@ -3835,7 +3835,7 @@ RES.EN.Customs.AnimalEmotes = {
         imageId = 'bdogsleep',
         AnimationOptions = {
             ExitEmote = 'bdogupk',
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogbark"] = {
@@ -3844,7 +3844,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Bark (small dog)',
         imageId = 'sdogbark',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogbb"] = {
@@ -3862,7 +3862,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogburger"] = {
@@ -3880,7 +3880,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogcontroller"] = {
@@ -3899,7 +3899,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdance"] = {
@@ -3917,7 +3917,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdance2"] = {
@@ -3945,7 +3945,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdancepridea"] = {
@@ -3974,7 +3974,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdanceprideb"] = {
@@ -4003,7 +4003,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdancepridec"] = {
@@ -4032,7 +4032,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdanceprided"] = {
@@ -4061,7 +4061,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdancepridee"] = {
@@ -4090,7 +4090,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdancepridef"] = {
@@ -4119,7 +4119,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdanceprideg"] = {
@@ -4148,7 +4148,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdanceprideh"] = {
@@ -4177,7 +4177,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdancepridei"] = {
@@ -4206,7 +4206,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdolla"] = {
@@ -4225,7 +4225,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdolla2"] = {
@@ -4244,7 +4244,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdolla3"] = {
@@ -4263,7 +4263,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogdolla4"] = {
@@ -4282,7 +4282,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogfris"] = {
@@ -4301,7 +4301,7 @@ RES.EN.Customs.AnimalEmotes = {
                 120.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sdogfw"] = {
@@ -4383,7 +4383,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.6,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sdogggun"] = {
@@ -4402,7 +4402,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdoggl1"] = {
@@ -4421,7 +4421,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdoggl2"] = {
@@ -4441,7 +4441,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdoggl3"] = {
@@ -4460,7 +4460,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdoggl4"] = {
@@ -4480,7 +4480,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdoggun2"] = {
@@ -4500,7 +4500,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdoghat"] = {
@@ -4529,7 +4529,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdoghat2"] = {
@@ -4559,7 +4559,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdoghd1"] = {
@@ -4578,7 +4578,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -9.8465858,
                 -0.1488562,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdoghd2"] = {
@@ -4598,7 +4598,7 @@ RES.EN.Customs.AnimalEmotes = {
                 -9.8465858,
                 -0.1488562,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdoghlmt1"] = {
@@ -4617,7 +4617,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdoghlmt2"] = {
@@ -4636,7 +4636,7 @@ RES.EN.Customs.AnimalEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogitch"] = {
@@ -4646,7 +4646,7 @@ RES.EN.Customs.AnimalEmotes = {
         imageId = 'sdogitch',
         AnimationOptions = {
             ExitEmote = 'sdogup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogld"] = {
@@ -4656,7 +4656,7 @@ RES.EN.Customs.AnimalEmotes = {
         imageId = 'sdogld',
         AnimationOptions = {
             ExitEmote = 'sdogup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogmic"] = {
@@ -4675,7 +4675,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpee"] = {
@@ -4699,7 +4699,7 @@ RES.EN.Customs.AnimalEmotes = {
                 1.0,
             },
             PtfxWait = 0,
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridea"] = {
@@ -4718,7 +4718,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogprideb"] = {
@@ -4737,7 +4737,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridec"] = {
@@ -4756,7 +4756,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogprided"] = {
@@ -4775,7 +4775,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridee"] = {
@@ -4794,7 +4794,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridef"] = {
@@ -4813,7 +4813,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogprideg"] = {
@@ -4832,7 +4832,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogprideh"] = {
@@ -4851,7 +4851,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridei"] = {
@@ -4870,7 +4870,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridesita"] = {
@@ -4890,7 +4890,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridesitb"] = {
@@ -4910,7 +4910,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridesitc"] = {
@@ -4930,7 +4930,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridesitd"] = {
@@ -4950,7 +4950,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridesite"] = {
@@ -4970,7 +4970,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridesitf"] = {
@@ -4990,7 +4990,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridesitg"] = {
@@ -5010,7 +5010,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridesith"] = {
@@ -5030,7 +5030,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogpridesiti"] = {
@@ -5050,7 +5050,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -74.6999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogrose"] = {
@@ -5069,7 +5069,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogrose2"] = {
@@ -5089,7 +5089,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogshake"] = {
@@ -5098,7 +5098,7 @@ RES.EN.Customs.AnimalEmotes = {
         'Shake (small dog)',
         imageId = 'sdogshake',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogshit"] = {
@@ -5123,7 +5123,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.5,
             },
             PtfxWait = 0,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sdogsit"] = {
@@ -5133,7 +5133,7 @@ RES.EN.Customs.AnimalEmotes = {
         imageId = 'sdogsit',
         AnimationOptions = {
             ExitEmote = 'sdogup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogsteak"] = {
@@ -5152,7 +5152,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogsteak2"] = {
@@ -5172,7 +5172,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogstun"] = {
@@ -5204,7 +5204,7 @@ RES.EN.Customs.AnimalEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogteddy"] = {
@@ -5223,7 +5223,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogteddy2"] = {
@@ -5243,7 +5243,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogtennis"] = {
@@ -5262,7 +5262,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
     ["sdogtennisr"] = {
@@ -5281,7 +5281,7 @@ RES.EN.Customs.AnimalEmotes = {
                 0.0,
                 -28.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            EmoteLoop = true
         },
     },
 }
