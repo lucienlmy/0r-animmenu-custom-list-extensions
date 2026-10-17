@@ -1,4 +1,4 @@
-Watch [**documentation video**](https://www.youtube.com/watch?v=Hg9mRvgmiZc)
+Watch [**documentation video**](https://www.youtube.com/watch?v=KtIUn5CSLz8)
 
 **Big thanks to [alberttheprince](https://github.com/alberttheprince) for the work put into [rpemotes-reborn](https://github.com/alberttheprince/rpemotes-reborn).**
 
